@@ -1,6 +1,6 @@
 export default function() {
-  const a = 1;
-  const b = 2;
+  const a = 2;
+  const b = 3;
 
   return a + b;
 }
