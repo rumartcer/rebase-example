@@ -1,4 +1,6 @@
 export default function() {
   const a = 1;
-  return a;
+  const b = 2;
+
+  return a + b;
 }
